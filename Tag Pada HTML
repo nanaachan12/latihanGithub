@@ -1,0 +1,35 @@
+1. Tag Struktur
+<html>: Tag utama yang membungkus seluruh dokumen HTML.
+<head>: Berisi informasi metadata seperti judul halaman, gaya, dan skrip.
+<body>: Berisi semua konten yang akan ditampilkan di halaman web.
+
+2. Tag Heading (Judul)
+<h1> sampai <h6>: Menunjukkan tingkat heading dari yang paling besar (<h1>) hingga yang paling kecil (<h6>).
+
+3. Tag Paragraf dan Teks
+<p>: Digunakan untuk menulis paragraf.
+<b> atau <strong>: Membuat teks menjadi tebal.
+<i> atau <em>: Membuat teks menjadi miring.
+
+4. Tag Gambar dan Multimedia
+<img>: Untuk menampilkan gambar. Tag ini adalah tag self-closing (tidak memerlukan tag penutup).
+
+5. Tag Link (Tautan)
+<a>: Digunakan untuk membuat hyperlink.
+
+6. Tag List (Daftar)
+<ul>: Membuat daftar tak berurutan (bullet list)
+<ol>: Membuat daftar berurutan (numbered list)
+
+7. Tag Tabel
+<table>: Membuat tabel
+
+8. Tag Formulir
+<form>: Digunakan untuk membuat formulir input.
+
+9. Tag Div dan Span
+<div>: Untuk mengelompokkan elemen dalam satu blok.
+<span>: Untuk membungkus teks dalam elemen inline
+
+10. Tag Komentar
+Komentar: Digunakan untuk menulis catatan yang tidak akan tampil di halaman web

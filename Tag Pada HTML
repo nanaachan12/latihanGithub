@@ -18,18 +18,18 @@
 <a>: Digunakan untuk membuat hyperlink.
 
 6. Tag List (Daftar)
-<ul>: Membuat daftar tak berurutan (bullet list)
-<ol>: Membuat daftar berurutan (numbered list)
+<ul>: Membuat daftar tak berurutan (bullet list).
+<ol>: Membuat daftar berurutan (numbered list).
 
 7. Tag Tabel
-<table>: Membuat tabel
+<table>: Membuat tabel.
 
 8. Tag Formulir
 <form>: Digunakan untuk membuat formulir input.
 
 9. Tag Div dan Span
 <div>: Untuk mengelompokkan elemen dalam satu blok.
-<span>: Untuk membungkus teks dalam elemen inline
+<span>: Untuk membungkus teks dalam elemen inline.
 
 10. Tag Komentar
-Komentar: Digunakan untuk menulis catatan yang tidak akan tampil di halaman web
+Komentar: Digunakan untuk menulis catatan yang tidak akan tampil di halaman web.
